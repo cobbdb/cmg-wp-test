@@ -1,0 +1,9 @@
+body > div {
+    margin: 10px auto;
+    margin-bottom: 200px;
+}
+
+body > div * {
+    text-align: center;
+    margin: auto;
+}
